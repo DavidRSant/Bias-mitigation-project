@@ -1,4 +1,4 @@
-# Evaluating the Impact of Adversarial Debiasing on Fairness, Performance, and Interpretability in the Adult Dataset
+# Evaluating the Impact of Adversarial Debiasing on Fairness, Performance, and Interpretability 
 
 **Author:** David Rocha de Santana  
 
